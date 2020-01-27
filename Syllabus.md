@@ -62,11 +62,10 @@ How well the work meets professional standards, in terms of quality of resolutio
 The degree of improvement in the quality of a student’s work over the course of the
 semester may also be considered in the evaluation of a final grade.
 Your final grade will be assessed according to the percentages below:
-Project #1: Targeted Career Research Paper......................................................................5%
-Project #2: Writing: Bio, Résumé, Cover Letter, Project Descriptions Sheet ....................20%
-Project #3: Branding.........................................................................................................25%
-Project #4: Online Portfolio..............................................................................................25%
-Project #5: Final Book, Package or Reel............................................................................25%
+Homework assignment........................50%
+Midterm Presentation: .....................20%
+Attendance: ...............................20%
+Final: ....................................15%
 
 
 ### General Policies including lateness/absence
@@ -128,11 +127,15 @@ Course introduction, design theory review, and syllabus review. Discussion of in
 ##### HW: 
 * Quick 2-3 praragraph sentence about potential app idea and interests based on the three options for class projects:
 1. App as civic engagement tool.
-2. Speculative app a design/art project to address potential future societal needs.
+2. Speculative app a design/art project to address potential future societal needs. 
 3. Critical app design as desing/art project that critiques existing social and cultureal systems. 
+Post to your blog and share blog.
 
-* https://www.youtube.com/watch?v=vLKPTCgUQBY Watch and answer the question: Do you think designers are more suited to change society? If so, why?
-* Start Mood board on are.na for ideas (add at 3 - 4 inspirational items to start) 
+* https://www.youtube.com/watch?v=vLKPTCgUQBY Watch and answer the question: Do you think designers are more suited to change society? If so, why? Post to your blog.
+
+* Start Mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
+
+* Post are.na and blog links to this [document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
 #### Week 2 (Feb 2nd)
 ##### In-class: 
@@ -197,5 +200,5 @@ Course introduction, design theory review, and syllabus review. Discussion of in
 #### Week 12 (May 5) 
 Work-in-class day.
 
-#### Week 12 (May 12) 
+#### Week 13 (May 12) 
 Final Presentations.
