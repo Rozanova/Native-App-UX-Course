@@ -40,7 +40,7 @@ Students will design an app that will fit in one of the following categories:
 
 ### Class schedule
 
-###### Week 1 (Jan 28th)
+##### Week 1 (Jan 28th)
 
 ##### Week 2 (Feb 2nd)
 
@@ -48,24 +48,24 @@ Students will design an app that will fit in one of the following categories:
 
 ##### Week 4 (Feb 18th)
 
-### Week 5 (Feb 25th)
+##### Week 5 (Feb 25th)
 
-### Week 6 (Mar 3rd)
+##### Week 6 (Mar 3rd)
 
-### Week 7 (Mar 10th)
+##### Week 7 (Mar 10th)
 
-### Week 8 (Mar 24th)
+##### Week 8 (Mar 24th)
 
-### Week 9 (Mar 31st)
+##### Week 9 (Mar 31st)
 
-### (April 7) (No Class. Classes follow Wednesday schedule)
+##### (April 7) (No Class. Classes follow Wednesday schedule)
 
-### (April 14) (Spring Recess)
+##### (April 14) (Spring Recess)
 
-### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
+##### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
 
-### Week 11 (April 28) 
+##### Week 11 (April 28) 
 
-### Week 12 (May 5) 
+##### Week 12 (May 5) 
 
-### Week 12 (May 12) 
+##### Week 12 (May 12) 
