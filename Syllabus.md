@@ -1,9 +1,9 @@
 # Art 31918  Native App UX Tuesday :iphone:
-## Taught by: Katya Rozanova
-## kr2176@nyu.edu 
-## Tuesdays 9-11:50am
-## Compton Goethals Hall CG121 
-## prerequisites: 29510 Electronic Design 1 and 39540 Design for the Web 1. 
+##### Taught by: Katya Rozanova
+##### kr2176@nyu.edu 
+##### Tuesdays 9-11:50am
+##### Compton Goethals Hall CG121 
+##### prerequisites: 29510 Electronic Design 1 and 39540 Design for the Web 1. 
 
 
 
