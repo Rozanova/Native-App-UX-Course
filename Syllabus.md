@@ -3,7 +3,8 @@
 ##### kr2176@nyu.edu 
 ##### Tuesdays 9-11:50am
 ##### Compton Goethals Hall CG121 
-##### prerequisites: 29510 Electronic Design 1 and 39540 Design for the Web 1. 
+##### prerequisites: 29510 Electronic Design 1 and 39540 Design for the Web 1.
+_
 
 
 
@@ -12,40 +13,40 @@
 > Gui Bonsiepe. Design and Democracy.
 
 
-## Course Description and Objectives
+### Course Description and Objectives
 Projects in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture (site maps), rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to present and defend our design decisions. 
 
 
-## Things to bring to class:
+### Things to bring to class:
 :notebook: notebook & :pencil: pencil or :pen: pen
 
-## Tools we will use:
+### Tools we will use:
 Sketch App, a blog (like Tumblr or a blog of your choice), and Gmail.
 
 
-## Projects:
+### Projects:
 Students will design an app that will fit in one of the following categories: 
 :wavy_dash: App as civic engagement tool.
 :wavy_dash: Speculative app a design/art project to address potential future societal needs.
 :wavy_dash: Critical app design as desing/art project that critiques existing social and cultureal systems. 
 
-## Readings:
+### Readings:
 
-## Assessment and grading
+### Assessment and grading
 
-## General Policies including lateness/absence
+### General Policies including lateness/absence
 
-# Plagiarism statement
+### Plagiarism statement
 
-# Class schedule
+### Class schedule
 
-### Week 1 (Jan 28th)
+###### Week 1 (Jan 28th)
 
-### Week 2 (Feb 2nd)
+##### Week 2 (Feb 2nd)
 
-### Week 3 (Feb 11th)
+##### Week 3 (Feb 11th)
 
-### Week 4 (Feb 18th)
+##### Week 4 (Feb 18th)
 
 ### Week 5 (Feb 25th)
 
