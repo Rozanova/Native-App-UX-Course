@@ -1,4 +1,4 @@
-# Art 31918  Native App UX Tuesday :iphone:
+# Art 31918  Native App UX Tuesday :vibration_mode:
 ##### Taught by: Katya Rozanova
 ##### kr2176@nyu.edu 
 ##### Tuesdays 9-11:50am
@@ -11,19 +11,60 @@
 
 > Gui Bonsiepe. Design and Democracy.
 
-# Course Description and Objectives
-Projects in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture (site maps), rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to justify and present our design decisions. Students will design an app that will fit in one of the following categories: 
-* app as civic engagement tool
-* speculative app design for a future
-* app as critical design or critical art project that critiques existing aocial an cultureal systems 
 
-# Things to bring to class:
-:notebook: notebook, :pencil: pencil or :pen: pen
+## Course Description and Objectives
+Projects in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture (site maps), rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to present and defend our design decisions. 
 
-# Student Learning Objectives:
 
-# Projects:
+## Things to bring to class:
+:notebook: notebook & :pencil: pencil or :pen: pen
 
-# Readings:
+## Tools we will use:
+Sketch App, a blog (like Tumblr or a blog of your choice), and Gmail.
 
-# Assessment and grading, General Policies including lateness/absence, plagiarism statement, class schedule.
+
+## Projects:
+Students will design an app that will fit in one of the following categories: 
+:wavy_dash: App as civic engagement tool.
+:wavy_dash: Speculative app a design/art project to address potential future societal needs.
+:wavy_dash: Critical app design as desing/art project that critiques existing social and cultureal systems. 
+
+## Readings:
+
+## Assessment and grading
+
+## General Policies including lateness/absence
+
+# Plagiarism statement
+
+# Class schedule
+
+### Week 1 (Jan 28th)
+
+### Week 2 (Feb 2nd)
+
+### Week 3 (Feb 11th)
+
+### Week 4 (Feb 18th)
+
+### Week 5 (Feb 25th)
+
+### Week 6 (Mar 3rd)
+
+### Week 7 (Mar 10th)
+
+### Week 8 (Mar 24th)
+
+### Week 9 (Mar 31st)
+
+### (April 7) (No Class. Classes follow Wednesday schedule)
+
+### (April 14) (Spring Recess)
+
+### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
+
+### Week 11 (April 28) 
+
+### Week 12 (May 5) 
+
+### Week 12 (May 12) 
