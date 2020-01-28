@@ -16,7 +16,7 @@ _
 
 
 ### Course Description and Objectives
-This course entails a project in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to present and defend our design decisions. Students will familiarize themsleves with native UI elements in Apple and Android platforms and design for one of the platforms of their choice. 
+This course entails a project in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to present and defend our design decisions. Students will familiarize themselves with native UI elements in Apple and Android platforms and design for one of the platforms of their choice. 
 
 
 ### Things to bring to class:
@@ -33,7 +33,7 @@ Sketch App, a blog (like Tumblr or a blog of your choice), are.na, and Gmail.
 Students will design an app that will fit in one of the following categories: 
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs.
-3. Critical app design as desing/art project that critiques existing social and cultureal systems. 
+3. Critical app design as design/art project that critiques existing social and cultural systems. 
 
 
 
@@ -49,8 +49,8 @@ in equal weight:
 ### Research and ideation: 
 Whether and how much thought and investigation have been given toward a particular project in order to arrive at a clear and strong concept.
 
-### Overall dsign and concept: 
-Formal design quality and how well the piece meets thestrategic goals of the project.
+### Overall design and concept: 
+Formal design quality and how well the piece meets the strategic goals of the project.
 
 ### Organization of content: 
 Expression of visual hierarchy, clarity of communication.
@@ -129,10 +129,10 @@ acad_integrity.html
 * Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
 
 ##### HW: 
-* Quick 2-3 praragraphs about potential app idea and interests based on the three options for class projects:
+* Quick 2-3 paragraphs about potential app idea and interests based on the three options for class projects:
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs. 
-3. Critical app design as desing/art project that critiques existing social and cultureal systems. 
+3. Critical app design as design/art project that critiques existing social and cultural systems. 
 Post to your blog and share blog.
 
 * [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers can/do change society? If so, why? Post to your blog.
@@ -144,7 +144,7 @@ Post to your blog and share blog.
 #### Week 2 (Feb 2nd)
 ##### In-class: 
 * Students share ideas for apps and give each other feedback in groups.
-* Lecture: Intro to Prototypting techniques. Intro to Sketch app and Invision.
+* Lecture: Intro to Prototyping techniques. Intro to Sketch app and Invision.
 * In-class activity: Preliminary paper prototypes (or [POP by Marvel](https://marvelapp.com/pop/_ if you prefer) then testing in groups. 
 
 ##### HW: TBD 
@@ -179,7 +179,7 @@ Post to your blog and share blog.
 ##### In-class: 
 
 * Class Critique: Students Present Personas and Competitive Audits. 
-* Lecture: User Goals and User Flows based on syntherized research. Sketching techniques to ideate through solutions. 
+* Lecture: User Goals and User Flows based on synthesized research. Sketching techniques to ideate through solutions. 
 * In-class activity: User Goals and User Flows.
 
 ##### HW: 
@@ -201,7 +201,7 @@ Midterm presentations
 
 #### Week 8 (Mar 24th)
 ##### In-class: 
-* Lecture: Infomation Architecture
+* Lecture: Information Architecture
 * In-class workshop: Site maps
 
 ##### HW: 
