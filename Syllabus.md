@@ -118,7 +118,7 @@ or writings as your own. More information is available at http://sps.cuny.edu/ac
 acad_integrity.html
 
 
-### Class schedule
+### Class schedule (subject to change!)
 
 #### Week 1 (Jan 28th)
 ##### In-class: 
@@ -139,7 +139,10 @@ Post to your blog and share blog.
 
 * Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
 
-* Post are.na and blog links to this [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+* Post are.na and blog links to this [Weekly Assignments document]
+(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+
+
 
 #### Week 2 (Feb 2nd)
 ##### In-class: 
@@ -148,7 +151,9 @@ Post to your blog and share blog.
 * In-class activity: Preliminary paper prototypes (or [POP by Marvel](https://marvelapp.com/pop/_ if you prefer) then testing in groups. 
 
 ##### HW: TBD 
- 
+
+
+
 #### Week 3 (Feb 11th)
 ##### In-class: 
 * Students present homework and get feedback from class.
@@ -163,6 +168,8 @@ Post to your blog and share blog.
 * Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
 
+
+
 #### Week 4 (Feb 18th)
 ##### In-class: 
 
@@ -175,6 +182,8 @@ Post to your blog and share blog.
 * Finish competitive audits.
 * Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
+
+
 #### Week 5 (Feb 25th)
 ##### In-class: 
 
@@ -185,6 +194,8 @@ Post to your blog and share blog.
 ##### HW: 
 * Finish User Goals and User Flows.
 
+
+
 #### Week 6 (Mar 3rd)
 ##### In-class: 
 Lecture: Prototyping and usability techniques. 
@@ -193,11 +204,15 @@ Lecture: Prototyping and usability techniques.
 ##### HW: 
 * Test paper prototypes and document feedback. Update your "How might we" statement if need be.
 
+
+
 #### Week 7 (Mar 10th)
 ##### In-class: 
 Midterm presentations
 
 ##### HW: TBD  
+
+
 
 #### Week 8 (Mar 24th)
 ##### In-class: 
@@ -206,6 +221,8 @@ Midterm presentations
 
 ##### HW: 
  * Site maps
+
+
 
 #### Week 9 (Mar 31st)
 ##### In-class: 
@@ -219,7 +236,11 @@ TBD
 #### (April 7) (No Class. Classes follow Wednesday schedule)
 
 
+
+
 #### (April 14) (Spring Recess)
+
+
 
 
 #### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
@@ -230,6 +251,8 @@ TBD
 ##### HW: 
 * Wireframes for all of your flows.
 
+
+
 #### Week 11 (April 28) 
 ##### In-class: 
 * Lecture: Present Visual Design basics (UX vs UI)
@@ -237,11 +260,15 @@ TBD
 * In-class workshop: UI Libraries and Style Guides using Sketch
 
 ##### HW: 
-*Create your style Guides using Sketch
+* Create your style Guides using Sketch
 * hi-fi prototypes of your app.
+
+
 
 #### Week 12 (May 5) 
 Work-in-class day.
+
+
 
 #### Week 13 (May 12) 
 Final Presentations.
