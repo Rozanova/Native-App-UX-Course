@@ -5,6 +5,7 @@
 ##### Tuesdays 9-11:50am
 ##### Compton Goethals Hall CG121 
 ##### prerequisites: 29510 Electronic Design 1 and 39540 Design for the Web 1.
+##### Office Hours: After class and by appointment.
 _
 
 
@@ -46,16 +47,16 @@ Optional:
 Where applicable, all projects will be evaluated according to the following criteria
 in equal weight:
 
-### Research and ideation: 
+#### Research and ideation: 
 Whether and how much thought and investigation have been given toward a particular project in order to arrive at a clear and strong concept.
 
-### Overall design and concept: 
+#### Overall design and concept: 
 Formal design quality and how well the piece meets the strategic goals of the project.
 
-### Organization of content: 
+#### Organization of content: 
 Expression of visual hierarchy, clarity of communication.
 
-### Execution and craft: 
+#### Execution and craft: 
 How well the work meets professional standards, in terms of quality of resolution of images, spelling, and placement of correct native UI elements in the layout. 
 
 The degree of improvement in the quality of a student’s work over the course of the
