@@ -122,20 +122,20 @@ acad_integrity.html
 
 #### Week 1 (Jan 28th)
 ##### In-class: 
-* Course introduction (What is UX?) 
-* Syllabus review
-* Design theory review
-* Discussion of individual goals and design interests
+* Course introduction. (What is UX?) 
+* Syllabus review.
+* Design theory review.
+* Discussion of individual goals and design interests.
 * Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
 
 ##### HW: 
-* Quick 2-3 praragraph sentence about potential app idea and interests based on the three options for class projects:
+* Quick 2-3 praragraphs about potential app idea and interests based on the three options for class projects:
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs. 
 3. Critical app design as desing/art project that critiques existing social and cultureal systems. 
 Post to your blog and share blog.
 
-* [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers are more suited to change society? If so, why? Post to your blog.
+* [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers can/do change society? If so, why? Post to your blog.
 
 * Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
 
@@ -144,14 +144,14 @@ Post to your blog and share blog.
 #### Week 2 (Feb 2nd)
 ##### In-class: 
 * Students share ideas for apps and give each other feedback in groups.
-* Lcture: Intro to Prototypting techniques. Intro to Sketch app and Invision.
+* Lecture: Intro to Prototypting techniques. Intro to Sketch app and Invision.
 * In-class activity: Preliminary paper prototypes (or [POP by Marvel](https://marvelapp.com/pop/_ if you prefer) then testing in groups. 
 
 ##### HW: TBD 
  
 #### Week 3 (Feb 11th)
 ##### In-class: 
-
+* Students present homework and get feedback from class.
 * Lecture: Go over User Interview Techniques, Secondary Research, "How might we" statements, and other Human-centered design methods for the Inspiration Phase. [IDEO's Design Kit](https://www.designkit.org/methods).
 * Class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
 
@@ -201,33 +201,44 @@ Midterm presentations
 
 #### Week 8 (Mar 24th)
 ##### In-class: 
-##### HW: TBD 
- 
+* Lecture: Infomation Architecture
+* In-class workshop: Site maps
+
+##### HW: 
+ * Site maps
 
 #### Week 9 (Mar 31st)
 ##### In-class: 
+* Lecture: Native UI
+* In-class workshop: Choosing native UI that you need for your app.
 
-##### HW: TBD 
+
+##### HW: 
+TBD
 
 #### (April 7) (No Class. Classes follow Wednesday schedule)
-##### In-class: 
 
-##### HW: TBD 
 
 #### (April 14) (Spring Recess)
-##### In-class: 
 
-##### HW: TBD 
 
 #### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
 ##### In-class: 
+* Lecture: Wireframing
+* In-class workshop: Wireframing.
 
-##### HW: TBD 
+##### HW: 
+* Wireframes for all of your flows.
 
 #### Week 11 (April 28) 
 ##### In-class: 
+* Lecture: Present Visual Design basics (UX vs UI)
+* hi-fi flows
+* In-class workshop: UI Libraries and Style Guides using Sketch
 
-##### HW: TBD 
+##### HW: 
+*Create your style Guides using Sketch
+* hi-fi prototypes of your app.
 
 #### Week 12 (May 5) 
 Work-in-class day.
