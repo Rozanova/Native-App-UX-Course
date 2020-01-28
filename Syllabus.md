@@ -16,8 +16,7 @@ _
 
 
 ### Course Description and Objectives
-Projects in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture (site maps), rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to present and defend our design decisions. 
-
+This course entails a project in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to present and defend our design decisions. Students will familiarize themsleves with native UI elements in Apple and Android platforms and design for one of the platforms of their choice. 
 
 
 ### Things to bring to class:
@@ -62,10 +61,11 @@ How well the work meets professional standards, in terms of quality of resolutio
 The degree of improvement in the quality of a student’s work over the course of the
 semester may also be considered in the evaluation of a final grade.
 Your final grade will be assessed according to the percentages below:
-Homework assignment........................50%
-Midterm Presentation: .....................20%
-Attendance: ...............................20%
-Final: ....................................15%
+* Homework assignment completion.............50%
+* Quality of work: ..........................15%
+* Attendance: ...............................10%
+* Participation: ............................10%
+* Final: ....................................15%
 
 
 ### General Policies including lateness/absence
@@ -122,7 +122,11 @@ acad_integrity.html
 
 #### Week 1 (Jan 28th)
 ##### In-class: 
-Course introduction, design theory review, and syllabus review. Discussion of individual goals and design interests. Students will set up blogs and are.na accounts in class and share their emails and blogs with the instructor. 
+* Course introduction (What is UX?) 
+* Syllabus review
+* Design theory review
+* Discussion of individual goals and design interests
+* Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
 
 ##### HW: 
 * Quick 2-3 praragraph sentence about potential app idea and interests based on the three options for class projects:
@@ -131,46 +135,74 @@ Course introduction, design theory review, and syllabus review. Discussion of in
 3. Critical app design as desing/art project that critiques existing social and cultureal systems. 
 Post to your blog and share blog.
 
-* https://www.youtube.com/watch?v=vLKPTCgUQBY Watch and answer the question: Do you think designers are more suited to change society? If so, why? Post to your blog.
+* [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers are more suited to change society? If so, why? Post to your blog.
 
-* Start Mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
+* Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
 
-* Post are.na and blog links to this [document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+* Post are.na and blog links to this [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
 #### Week 2 (Feb 2nd)
 ##### In-class: 
+* Students share ideas for apps and give each other feedback in groups.
+* Lcture: Intro to Prototypting techniques. Intro to Sketch app and Invision.
+* In-class activity: Preliminary paper prototypes (or [POP by Marvel](https://marvelapp.com/pop/_ if you prefer) then testing in groups. 
 
-##### HW: 
-
+##### HW: TBD 
+ 
 #### Week 3 (Feb 11th)
 ##### In-class: 
 
-##### HW: TBD 
+* Lecture: Go over User Interview Techniques, Secondary Research, "How might we" statements, and other Human-centered design methods for the Inspiration Phase. [IDEO's Design Kit](https://www.designkit.org/methods).
+* Class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
+
+##### HW: 
+* Continue collecting and documenting interviews. Interview a total of 10 people.
+* Conduct secondary research about your topic. [Here's how](https://www.designkit.org/methods/21). 
+* Reach out to experts to interview 
+* Add a few more images to the mood board on are.na. 
+* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+
 
 #### Week 4 (Feb 18th)
 ##### In-class: 
 
-##### HW: TBD
+* Students share "How might we" statements with class. 
+* Lecture: [Personas](http://opendesignkit.org/methods/personas/) and competitive audits.
+* In-class activity: Use interviews and secondary research to craft personas and start on competitive audits. 
+
+##### HW:  
+* Finish personas.
+* Finish competitive audits.
+* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
 #### Week 5 (Feb 25th)
 ##### In-class: 
 
-##### HW: TBD
+* Class Critique: Students Present Personas and Competitive Audits. 
+* Lecture: User Goals and User Flows based on syntherized research. Sketching techniques to ideate through solutions. 
+* In-class activity: User Goals and User Flows.
+
+##### HW: 
+* Finish User Goals and User Flows.
 
 #### Week 6 (Mar 3rd)
 ##### In-class: 
+Lecture: Prototyping and usability techniques. 
+* In-class activity: Use Sketch to prototype the next iteration of the app for testing.
 
-##### HW: TBD  
+##### HW: 
+* Test paper prototypes and document feedback. Update your "How might we" statement if need be.
 
 #### Week 7 (Mar 10th)
 ##### In-class: 
+Midterm presentations
 
-##### HW: TBD 
+##### HW: TBD  
 
 #### Week 8 (Mar 24th)
 ##### In-class: 
-
 ##### HW: TBD 
+ 
 
 #### Week 9 (Mar 31st)
 ##### In-class: 
