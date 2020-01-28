@@ -1,4 +1,4 @@
-# Art 31918  Native App UX Tuesday 
+# Art 31918  Native App UX
 ### :vibration_mode:
 ##### Taught by: Katya Rozanova
 ##### kr2176@nyu.edu 
