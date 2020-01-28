@@ -35,7 +35,7 @@ Students will design an app that will fit in one of the following categories:
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs.
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
-
+4. Your choice if you must :)
 
 
 ### Readings:
@@ -135,6 +135,7 @@ acad_integrity.html
 2. Speculative app a design/art project to address potential future societal needs. 
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
 Post to your blog and share blog.
+4. Your choice
 
 * [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers can/do change society? If so, why? Post to your blog.
 
