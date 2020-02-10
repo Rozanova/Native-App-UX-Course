@@ -17,7 +17,7 @@ _
 
 
 ### Course Description and Objectives
-This course entails a project in user experience and user interface design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. We will go over the difference between UX and Visual Design and learn how to present and defend our design decisions. Students will familiarize themselves with native UI elements in Apple and Android platforms and design for one of the platforms of their choice. 
+This course entails a project in native User Experience (UX) and User Interface (UI) design for mobile. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. Students will familiarize themselves with native UI elements in Apple and Android platforms and design for one of the platforms of their choice and learn how to present and defend their design decisions. The course explores also Human-Centered Design, Spculative Design, and Critical Design. Students are encouraged to design critically whether for an experiemntal app or for an app that is useful in our current day-to-day.  
 
 
 ### Things to bring to class:
@@ -35,7 +35,7 @@ Students will design an app that will fit in one of the following categories:
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs.
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
-4. Your choice if you must :)
+4. Your choice, as long as it follows Human-Centered design guidelines.
 
 
 ### Readings:
@@ -149,24 +149,37 @@ Post to your blog and share blog.
 #### Week 2 (Feb 2nd)
 ##### In-class: 
 * Students share ideas for apps and give each other feedback in groups.
-* Lecture: Intro to Prototyping techniques. Intro to Sketch app and Invision.
-* In-class activity: Preliminary paper prototypes (or [POP by Marvel](https://marvelapp.com/pop/_ if you prefer) then testing in groups. 
+* Lecture: Insiration Phase. Intro to Human-Centered Desgn methods. "User" (Participant) Interviews, "How might we" statements. [IDEO's Design Kit](https://www.designkit.org/methods).
 
-##### HW: TBD 
+* In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
+
+##### HW: 
+
+1. Interviews for your idea: Come up with questions for both regular participant [*interviews*](https://www.designkit.org/methods/2) and [*expert interviews*](https://www.designkit.org/methods/43.
+Blog it and post link to [Weekly Assignments document]
+(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+2. Frame the design challenge. In other words, come up with a [“How might we” statement](https://www.designkit.org/methods/60). Blog it and post link to [Weekly Assignments document]
+(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+ 
+
+(note: not doing storyboard yet!)
+
 
 
 
 #### Week 3 (Feb 11th)
 ##### In-class: 
 * Students present homework and get feedback from class.
-* Lecture: Go over User Interview Techniques, Secondary Research, "How might we" statements, and other Human-centered design methods for the Inspiration Phase. [IDEO's Design Kit](https://www.designkit.org/methods).
-* Class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
+* Lecture: Go over User Interview Techniques, Secondary Research, Prototyping techniques (We'll do storyboards). 
+* In-class activity: Preliminary paper prototypes (or [POP by Marvel](https://marvelapp.com/pop/_ if you prefer) then testing in groups. 
+
+
 
 ##### HW: 
 * Continue collecting and documenting interviews. Interview a total of 10 people.
 * Conduct secondary research about your topic. [Here's how](https://www.designkit.org/methods/21). 
-* Reach out to experts to interview 
-* Add a few more images to the mood board on are.na. 
+* Reach out to more experts to interview or follow up with ones aleady contacted.
+* Add some more instpirations to the mood board on are.na based on your findings so far. 
 * Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
 
@@ -175,7 +188,7 @@ Post to your blog and share blog.
 #### Week 4 (Feb 18th)
 ##### In-class: 
 
-* Students share "How might we" statements with class. 
+* Intro to Sketch app and Invision. 
 * Lecture: [Personas](http://opendesignkit.org/methods/personas/) and competitive audits.
 * In-class activity: Use interviews and secondary research to craft personas and start on competitive audits. 
 
