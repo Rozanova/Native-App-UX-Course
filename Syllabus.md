@@ -188,14 +188,23 @@ Blog it and post link to [Weekly Assignments document]
 #### Week 4 (Feb 18th)
 ##### In-class: 
 
-* Intro to Sketch app and Invision. 
-* Lecture: Go over secondary research and competitive audits.
-* In-class activity:  Preliminary paper prototypes (or [POP by Marvel](https://marvelapp.com/pop/_ if you prefer) then testing in groups. Start on competitive audits. 
+
+* Class Critique: Print storyboards, pin up, and critique a few
+30 min
+
+* Lecture: Intro to insights and solutions, features using paper prototype features (also Prott or POP). 
+
+* In-class activities: Insights and solutions.Features on paper (or Prott/POP) .
+ User testing paper prototypes. Synthesizing research. 
+
+* Lecture: Secondary research & competitive analysis. Feature priority. 
+
 
 ##### HW:  
+* Make updates to paper prootype and test on five more people. Summarize, record, and analyze your findings. 
 * Conduct secondary research about your topic. [Here's how](https://www.designkit.org/methods/21). 
-* Finish competitive audits.
-* Add some more inspirations to the mood board on are.na based on your findings so far. 
+* Use your findings from user testing and from your secondary research to inform your competitive analysis.
+* Prioritize app features based on competitive analysis.
 * Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
 
@@ -203,7 +212,7 @@ Blog it and post link to [Weekly Assignments document]
 #### Week 5 (Feb 25th)
 ##### In-class: 
 
-* Class Critique: Students Present Personas and Competitive Audits. 
+* Class Critique: Students Present competitive analysis and features. 
 * Lecture: User Goals and User Flows based on synthesized research. Sketching techniques to ideate through solutions. 
 * In-class activity: User Goals and User Flows.
 
@@ -214,8 +223,8 @@ Blog it and post link to [Weekly Assignments document]
 
 #### Week 6 (Mar 3rd)
 ##### In-class: 
-Lecture: Prototyping and usability techniques. 
-* In-class activity: Use Sketch to prototype the next iteration of the app for testing.
+Lecture: Prototyping and usability techniques. (Sketch, Figma)
+* In-class activity: Use Sketch or Figma to prototype the next iteration of the app for testing.
 
 ##### HW: 
 * Test paper prototypes and document feedback. Update your "How might we" statement if need be.
@@ -262,7 +271,7 @@ TBD
 #### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
 ##### In-class: 
 * Lecture: Wireframing
-* In-class workshop: Wireframing.
+* In-class workshop: Wireframing. Testing.
 
 ##### HW: 
 * Wireframes for all of your flows.
@@ -272,8 +281,8 @@ TBD
 #### Week 11 (April 28) 
 ##### In-class: 
 * Lecture: Present Visual Design basics (UX vs UI)
-* hi-fi flows
-* In-class workshop: UI Libraries and Style Guides using Sketch
+* hi-fi flows.
+* In-class workshop: UI Libraries and Style Guides using Sketch.
 
 ##### HW: 
 * Create your style Guides using Sketch
