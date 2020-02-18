@@ -194,14 +194,14 @@ Blog it and post link to [Weekly Assignments document]
 
 * Lecture: Intro to insights and solutions, features using paper prototype features (also Prott or POP). 
 
-* In-class activities: Insights and solutions.Features on paper (or Prott/POP) .
+* In-class activities: Insights and solutions. Features on paper (or Prott/POP) .
  User testing paper prototypes. Synthesizing research. 
 
 * Lecture: Secondary research & competitive analysis. Feature priority. 
 
 
 ##### HW:  
-* Make updates to paper prootype and test on five more people. Summarize, record, and analyze your findings. 
+* Make updates to paper prototype and test on five more people. Summarize, record, and analyze your findings. 
 * Conduct secondary research about your topic. [Here's how](https://www.designkit.org/methods/21). 
 * Use your findings from user testing and from your secondary research to inform your competitive analysis.
 * Prioritize app features based on competitive analysis.
