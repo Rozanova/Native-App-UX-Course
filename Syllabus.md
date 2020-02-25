@@ -213,27 +213,27 @@ Blog it and post link to [Weekly Assignments document]
 ##### In-class: 
 
 * Class Critique: Students Present competitive analysis and features. 
-* Lecture: User Goals and User Flows based on synthesized research. Sketching techniques to ideate through solutions. 
-* In-class activity: User Goals and User Flows.
+* Lecture: Usability heuristics. User goals, user flows, information architecture and site maps. More research techniques. Sketching techniques to ideate through solutions. 
+* In-class activity: User goals, user flows, and site maps.
 
 ##### HW: 
-* Finish User Goals and User Flows.
+* Finish user goals, user flows, and site maps.
 
 
 
 #### Week 6 (Mar 3rd)
 ##### In-class: 
-Lecture: Prototyping and usability techniques. (Sketch, Figma)
-* In-class activity: Use Sketch or Figma to prototype the next iteration of the app for testing.
+Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
+* In-class activity: Use Sketch, Figma, or Adobe XD to prototype the next iteration of the wireframes for testing.
 
 ##### HW: 
-* Test paper prototypes and document feedback. Update your "How might we" statement if need be.
+* Test prototypes and document feedback. 
+* Update your problem statement if need be. [Persona name] needs a way to [user’s need], because [insight].
 
 
 
 #### Week 7 (Mar 10th)
 ##### In-class: 
-Midterm presentations
 
 ##### HW: TBD  
 
@@ -241,18 +241,19 @@ Midterm presentations
 
 #### Week 8 (Mar 24th)
 ##### In-class: 
-* Lecture: Information Architecture
+* Lecture: * Lecture: Native UI part 1
+* In-class workshop: Choosing native UI that you need for your app.
 * In-class workshop: Site maps
 
 ##### HW: 
- * Site maps
+ 
 
 
 
 #### Week 9 (Mar 31st)
 ##### In-class: 
-* Lecture: Native UI
-* In-class workshop: Choosing native UI that you need for your app.
+* Lecture: Native UI (elevations, shadows, material design) part 2 and heuristics.
+* In-class workshop: Choosing native UI that you need for your app. Build a tyle guide.
 
 
 ##### HW: 
