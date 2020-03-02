@@ -241,7 +241,7 @@ Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 
 #### Week 8 (Mar 24th)
 ##### In-class: 
-* Lecture: * Lecture: Native UI part 1
+* Lecture: Native UI part 1
 * In-class workshop: Choosing native UI that you need for your app.
 * In-class workshop: Site maps
 
