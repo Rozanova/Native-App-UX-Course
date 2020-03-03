@@ -155,7 +155,7 @@ Post to your blog and share blog.
 
 ##### HW: 
 
-1. Interviews for your idea: Come up with questions for both regular participant [*interviews*](https://www.designkit.org/methods/2) and [*expert interviews*](https://www.designkit.org/methods/43.
+1. Interviews for your idea: Come up with questions for both regular participant [*interviews*](https://www.designkit.org/methods/2) and [*expert interviews*](https://www.designkit.org/methods/43).
 Blog it and post link to [Weekly Assignments document]
 (https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 2. Frame the design challenge. In other words, come up with a [“How might we” statement](https://www.designkit.org/methods/60). Blog it and post link to [Weekly Assignments document]
@@ -213,11 +213,11 @@ Blog it and post link to [Weekly Assignments document]
 ##### In-class: 
 
 * Class Critique: Students Present competitive analysis and features. 
-* Lecture: Usability heuristics. User goals, user flows, information architecture and site maps. More research techniques. Sketching techniques to ideate through solutions. 
-* In-class activity: User goals, user flows, and site maps.
+* Lecture: User goals, AI (user flows, site maps).  
+* In-class activity: User flows.
 
 ##### HW: 
-* Finish user goals, user flows, and site maps.
+* Finish user flows, site maps.
 
 
 
@@ -227,15 +227,22 @@ Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 * In-class activity: Use Sketch, Figma, or Adobe XD to prototype the next iteration of the wireframes for testing.
 
 ##### HW: 
-* Test prototypes and document feedback. 
+* Finish user flows (primary and secondary) 
+* Create a site maps
+* Wireframes (Wireflow)
 * Update your problem statement if need be. [Persona name] needs a way to [user’s need], because [insight].
+* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+
 
 
 
 #### Week 7 (Mar 10th)
-##### In-class: 
+##### In-class:  
 
-##### HW: TBD  
+* Lecture: Usability heuristics. Hi-fi UI.
+
+##### HW:
+* HW: TBD  
 
 
 
