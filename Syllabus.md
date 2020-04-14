@@ -271,36 +271,39 @@ TBD
 
 
 
-#### (April 14) (Spring Recess)
+#### (April 14) 
 
+* Lecture: Usability refresher
+* In-class workshop: Usability testing.
 
-
+##### HW: 
+* Apply your takeaways from the usability testing sessions to your designs. 
 
 #### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
 ##### In-class: 
-* Lecture: Wireframing
-* In-class workshop: Wireframing. Testing.
+* Lecture: Libraries, style guides, simple animations.
+* In-class workshop: Work session
 
 ##### HW: 
-* Wireframes for all of your flows.
+* Style guides
 
 
 
 #### Week 11 (April 28) 
 ##### In-class: 
-* Lecture: Present Visual Design basics (UX vs UI)
-* hi-fi flows.
-* In-class workshop: UI Libraries and Style Guides using Sketch.
+* Lecture: Animations and prototyping continued.
+* In-class workshop: UI libraries and style guides using XD.
 
 ##### HW: 
-* Create your style Guides using Sketch
-* hi-fi prototypes of your app.
+* Create your final style guides using XD.
+* Final Hi-fi prototypes of your app.
 
 
 
 #### Week 12 (May 5) 
 Work-in-class day.
-
+* Final Hi-fi prototypes of your app.
+* Help sessions
 
 
 #### Week 13 (May 12) 
