@@ -170,7 +170,7 @@ Blog it and post link to [Weekly Assignments document]
 #### Week 3 (Feb 11th)
 ##### In-class: 
 * Students present homework and get feedback from class.
-* Lecture: "Ideation" phase begins, while still in "instpiration" phase also. Go over [personas](http://opendesignkit.org/methods/personas/), [journey maps](https://www.designkit.org/methods/63), and [story boards](https://www.designkit.org/methods/35). 
+* Lecture: "Ideation" phase begins, while still in "inspiration" phase also. Go over [personas](http://opendesignkit.org/methods/personas/), [journey maps](https://www.designkit.org/methods/63), and [story boards](https://www.designkit.org/methods/35). 
 * In-class activity: Craft Personas, journey maps, and storyboards for your project.  
 
 
@@ -281,30 +281,32 @@ TBD
 
 #### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
 ##### In-class: 
-* Lecture: Libraries, style guides, simple animations.
-* In-class workshop: Work session
+* Lecture: Libraries, style guides.
+* In-class workshop: Work session & one-on-ones
 
 ##### HW: 
 * Style guides
-
+* Updated flows
 
 
 #### Week 11 (April 28) 
 ##### In-class: 
-* Lecture: Animations and prototyping continued.
-* In-class workshop: UI libraries and style guides using XD.
+* Critique: Select students to get class critiques (first half),
+* Lecture: Animations and prototyping continued. Case studies: Telling a story about your design process. 
+* In-class workshop: One-on-ones during work session.
 
 ##### HW: 
-* Create your final style guides using XD.
-* Final Hi-fi prototypes of your app.
+* Sign up for final presentations for either week 12 or 13. 
+* Finalize Style Guide and wires. Make sure app has high fi styles applied, even if still in progress. This means no more greyscale wireframes, placeholder images, app names, or placeholder icons.
+* Put together a Design story about our process. 
 
 
 
 #### Week 12 (May 5) 
-Work-in-class day.
-* Final Hi-fi prototypes of your app.
-* Help sessions
+Final presentation and group critue part 1.
+Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
 
 #### Week 13 (May 12) 
-Final Presentations.
+Final presentation and group critue part 2.
+Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
