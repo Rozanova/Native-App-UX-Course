@@ -303,10 +303,13 @@ TBD
 
 
 #### Week 12 (May 5) 
-Final presentation and group critue part 1.
+* Critique: Share style guides.
+* Lecture: Accessibility
+
+* Final presentation and group critue part 2.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
 
 #### Week 13 (May 12) 
-Final presentation and group critue part 2.
+* Final presentation and group critue part 2.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
