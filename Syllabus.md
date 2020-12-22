@@ -1,9 +1,7 @@
-# Art 31918  Native App UX
+# Native App UX
 ### :vibration_mode:
 ##### Taught by: Katya Rozanova
-##### kr2176@nyu.edu 
-##### Tuesdays 9-11:50am
-##### Compton Goethals Hall CG121 
+##### katya.rozanova@gmail.com / krozanova@ccny.cuny.edu / kr2176@nyu.edu  
 ##### prerequisites: 29510 Electronic Design 1 and 39540 Design for the Web 1.
 ##### Office Hours: After class and by appointment.
 _
@@ -121,7 +119,7 @@ acad_integrity.html
 
 ### Class schedule (subject to change!)
 
-#### Week 1 (Jan 28th)
+#### Week 1 
 ##### In-class: 
 * Course introduction. (What is UX?) 
 * Syllabus review.
@@ -146,7 +144,7 @@ Post to your blog and share blog.
 
 
 
-#### Week 2 (Feb 2nd)
+#### Week 2 
 ##### In-class: 
 * Students share ideas for apps and give each other feedback in groups.
 * Lecture: Inspiration Phase. Intro to Human-Centered Design methods. "User" (Participant) Interviews, "How might we" statements. [IDEO's Design Kit](https://www.designkit.org/methods).
@@ -167,7 +165,7 @@ Blog it and post link to [Weekly Assignments document]
 
 
 
-#### Week 3 (Feb 11th)
+#### Week 3 
 ##### In-class: 
 * Students present homework and get feedback from class.
 * Lecture: "Ideation" phase begins, while still in "inspiration" phase also. Go over [personas](http://opendesignkit.org/methods/personas/), [journey maps](https://www.designkit.org/methods/63), and [story boards](https://www.designkit.org/methods/35). 
@@ -185,7 +183,7 @@ Blog it and post link to [Weekly Assignments document]
 
 
 
-#### Week 4 (Feb 18th)
+#### Week 4 
 ##### In-class: 
 
 
@@ -209,7 +207,7 @@ Blog it and post link to [Weekly Assignments document]
 
 
 
-#### Week 5 (Feb 25th)
+#### Week 5 
 ##### In-class: 
 
 * Class Critique: Students Present competitive analysis and features. 
@@ -221,7 +219,7 @@ Blog it and post link to [Weekly Assignments document]
 
 
 
-#### Week 6 (Mar 3rd)
+#### Week 6 
 ##### In-class: 
 Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 * In-class activity: Use Sketch, Figma, or Adobe XD to prototype the next iteration of the wireframes for testing.
@@ -236,7 +234,7 @@ Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 
 
 
-#### Week 7 (Mar 10th)
+#### Week 7 
 ##### In-class:  
 
 * Lecture: Usability heuristics. Hi-fi UI.
@@ -246,7 +244,7 @@ Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 
 
 
-#### Week 8 (Mar 24th)
+#### Week 8 
 ##### In-class: 
 * Lecture: Native UI part 1
 * In-class workshop: Choosing native UI that you need for your app.
@@ -257,7 +255,7 @@ Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 
 
 
-#### Week 9 (Mar 31st)
+#### Week 9 
 ##### In-class: 
 * Lecture: Native UI (elevations, shadows, material design) part 2 and heuristics.
 * In-class workshop: Choosing native UI that you need for your app. Build a tyle guide.
@@ -266,30 +264,25 @@ Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 ##### HW: 
 TBD
 
-#### (April 7) (No Class. Classes follow Wednesday schedule)
+#### (No Class. Classes follow Wednesday schedule)
 
 
 
 
-#### (April 14) 
-
+#### Week 10  
+##### In-class: 
 * Lecture: Usability refresher
 * In-class workshop: Usability testing.
-
-##### HW: 
-* Apply your takeaways from the usability testing sessions to your designs. 
-
-#### Week 10  (April 21) (No Class. Classes follow Wednesday schedule)
-##### In-class: 
 * Lecture: Libraries, style guides.
 * In-class workshop: Work session & one-on-ones
 
 ##### HW: 
+* Apply your takeaways from the usability testing sessions to your designs. 
 * Style guides
 * Updated flows
 
 
-#### Week 11 (April 28) 
+#### Week 11 
 ##### In-class: 
 * Critique: Select students to get class critiques (first half),
 * Lecture: Animations and prototyping continued. Case studies: Telling a story about your design process. 
@@ -302,7 +295,7 @@ TBD
 
 
 
-#### Week 12 (May 5) 
+#### Week 12 
 * Critique: Share style guides.
 * Lecture: Accessibility
 
@@ -310,6 +303,6 @@ TBD
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
 
-#### Week 13 (May 12) 
+#### Week 13   
 * Final presentation and group critue part 2.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
