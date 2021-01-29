@@ -43,10 +43,13 @@ Students will design an app that will fit in one of the following categories:
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
 4. Your choice, as long as it follows Human-Centered design guidelines.
 
+### Readings/Videos:
 
-### Readings:
-Optional: 
-[Design and Democracy by Gui iepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
+[The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo)
+
+### Otional readings and videos: 
+
+[Design and Democracy by Gui Boniepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
 [How Things Don't Work by Victor Papanek](https://papanek.org/how-things-dont-work-the-dreamscape-of-victor-papanek/)
 
 ### Assessment and grading
