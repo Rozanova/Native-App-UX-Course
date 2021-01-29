@@ -146,13 +146,12 @@ acad_integrity.html
 Post to your blog and share blog.
 4. Your choice
 
-* [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers can/do change society? If so, why? Post to your blog.
+* Watch and write a short response yo [The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo). Then post to your blog!
+* [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers can/do change society? If so, why? (Post to your blog!)
 
 * Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
 
-* Post are.na and blog links to this [Weekly Assignments document]
-(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
-
+* Post are.na and blog links to our Slack channel #assignments.
 
 
 #### Week 2 
