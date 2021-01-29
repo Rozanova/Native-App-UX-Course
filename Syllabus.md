@@ -6,6 +6,7 @@
 ##### Office Hours: After class and by appointment.
 _
 
+___
 
 _&quot;You can't use up creativity. The more you use, the more you have.&quot;_
 
