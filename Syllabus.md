@@ -11,10 +11,11 @@ _&quot;You can't use up creativity. The more you use, the more you have.&quot;_
 
 _~Maya Angelou_
 
+---
+_&quot;Even design centers are exposed to the complicity of the media, running the risk of failing to reach their original objective: to make a difference between design as intelligent problem solving and styling. After all, it is a question of a renaissance of the tradition of the Good Design Movement... The advocates of Good Design pursued socio-pedagogical objectives, while the life style centers of today pursue exclusively commercial and marketing aims to provide orientation for consumption patterns… &quot;_
 
-> “Even design centers are exposed to the complicity of the media, running the risk of failing to reach their original objective: to make a difference between design as intelligent problem solving and styling. After all, it is a question of a renaissance of the tradition of the Good Design Movement... The advocates of Good Design pursued socio-pedagogical objectives, while the life style centers of today pursue exclusively commercial and marketing aims to provide orientation for consumption patterns…”
+_~Gui Bonsiepe. Design and Democracy._
 
-> Gui Bonsiepe. Design and Democracy.
 
 
 
