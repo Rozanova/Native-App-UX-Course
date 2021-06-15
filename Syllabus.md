@@ -44,17 +44,17 @@ Students will design an app that will fit in one of the following categories:
 4. Your choice, as long as it follows Human-Centered design guidelines.
 
 ### Readings/Videos/Materials we will use in class and for assignments:
-[How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
-[Adbuster - The Production Of Meaning (Over-consumption) (1 of 2)](https://www.youtube.com/watch?v=Z2GKajcU3ns)
-[Why Design Thinking Matters](https://www.capco.com/Capco-Institute/Journal-48-Design-Thinking/Why-design-thinking-matters)
-[The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo)
-[AI & Ethics: Collaborative Activities for Designers](https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers)
-[IDEO Design Kit](https://www.designkit.org/)
-[Product Designer Case Studies](https://blog.uxfol.io/product-designer-case-studies/)
-[75 Instructive Design Case Studies](https://www.smashingmagazine.com/2013/07/this-is-how-we-built-it-case-studies/)
-[Usability](https://www.usability.gov/)
-(Usability Testing)[User Experience Design: Usability Testing]
-[User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
+* [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
+* [Adbuster - The Production Of Meaning (Over-consumption) (1 of 2)](https://www.youtube.com/watch?v=Z2GKajcU3ns)
+* [Why Design Thinking Matters](https://www.capco.com/Capco-Institute/Journal-48-Design-Thinking/Why-design-thinking-matters)
+* [The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo)
+* [AI & Ethics: Collaborative Activities for Designers](https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers)
+* [IDEO Design Kit](https://www.designkit.org/)
+* [Product Designer Case Studies](https://blog.uxfol.io/product-designer-case-studies/)
+* [75 Instructive Design Case Studies](https://www.smashingmagazine.com/2013/07/this-is-how-we-built-it-case-studies/)
+* [Usability](https://www.usability.gov/)
+* [User Experience Design: Usability Testing](https://www.wisc-online.com/learn/computer-science/web-development/wd2215/user-experience-design-usability-testing)
+* [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
 
 
 ### Otional and recommended readings and videos: 
