@@ -170,7 +170,7 @@ Post to your blog and share blog.
 * In-class activity: 
  - come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
 - Discuss  Arenyeka article. 
-- Watch the video about design studios as cooperartives (from a speaker series that happened the semester prior in this class). [artner and Partners](https://vimeo.com/563364900). Discuss.
+- Watch the video about design studios as cooperartives (from a speaker series that happened the semester prior in this class). [Partner and Partners](https://vimeo.com/563364900). Discuss.
 - Watch a clip of [The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo) together and discuss.
 Discuss Zuboff talk.
 - Use the "Monitoring to Correct Course" card from this deck [AI & Ethics: Collaborative Activities for Designers](https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers) and answer the following questions:
@@ -246,7 +246,7 @@ Discuss Zuboff talk.
 
 #### Week 6 
 ##### In-class: 
-* Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
+* Lecture: Prototyping and usability techniques. (Figma or Adobe XD)
 - Look over [usability testing](https://www.usability.gov/)
 - Watch [Usability Testing](https://www.wisc-online.com/learn/computer-science/web-development/wd2215/user-experience-design-usability-testing) and [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
 
