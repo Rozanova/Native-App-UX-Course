@@ -23,7 +23,7 @@ _~Gui Bonsiepe. Design and Democracy._
 
 
 ### Course Description and Objectives
-This course is designed to teach students how to design user experiences (UX) for native applications for mobile devices while considering what types of digital products can and should be put out into the world as tools for the day-to-day, as speculative art projects, or as forms of resistance to existing systems in place. The course focuses on usability heuristics, research (human-centered design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. Students will familiarize themselves with native UI elements in Apple and Android platforms and design for one of the platforms of their choice. They will learn how to present and defend their design decisions. After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental app that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  
+This course is designed to teach students how to design user experiences (UX) for native applications for mobile devices while considering what types of digital products can and should be put out into the world as tools for the day-to-day, as speculative art projects, or as forms of resistance to existing systems in place. The course focuses on usability heuristics, research (Human-Centered Design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. Students will familiarize themselves with native UI elements in Apple and Android platforms, explore platform-agnostoc UI, and design for one of the platforms of their choice. They will practice presenting and defending their design decisions. After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental app that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  
 
 
 ### Things to bring to class:
@@ -32,25 +32,35 @@ This course is designed to teach students how to design user experiences (UX) fo
 
 
 ### Tools we will use:
-Sketch App, a blog (like Tumblr or a blog of your choice), are.na, and Gmail.
+[Figma](https://www.figma.com), a blog (like Tumblr or a blog of your choice), [Miro](https://miro.com), are.na, pencils, paper.
 
 
 
 ### Projects:
 Students will design an app that will fit in one of the following categories: 
 1. App as civic engagement tool.
-2. Speculative app a design/art project to address potential future societal needs.
+2. Speculative app as design/art project to address potential future societal needs.
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
 4. Your choice, as long as it follows Human-Centered design guidelines.
 
-### Readings/Videos:
+### Readings/Videos/Materials we will use in class and for assignments:
+[How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
+[Adbuster - The Production Of Meaning (Over-consumption) (1 of 2)](https://www.youtube.com/watch?v=Z2GKajcU3ns)
+[Why Design Thinking Matters]{https://www.capco.com/Capco-Institute/Journal-48-Design-Thinking/Why-design-thinking-matters}
+The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo)
+[AI & Ethics: Collaborative Activities for Designers]9https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers)
+[IDEO Design Kit](https://www.designkit.org/)
+[Product Designer Case Studies](https://blog.uxfol.io/product-designer-case-studies/)
+[75 Instructive Design Case Studies](https://www.smashingmagazine.com/2013/07/this-is-how-we-built-it-case-studies/)
+[Usability](https://www.usability.gov/)
+(Usability Testing)[User Experience Design: Usability Testing]
+[User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
 
-[The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo)
 
-### Otional readings and videos: 
+### Otional and recommended readings and videos: 
 
 [Design and Democracy by Gui Boniepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
-[How Things Don't Work by Victor Papanek](https://papanek.org/how-things-dont-work-the-dreamscape-of-victor-papanek/)
+[Can Design Change Society](https://www.youtube.com/watch?v=vLKPTCgUQBY) Gui Bonseipe on Design thinking - Watch from  29:00 - 33:40
 
 ### Assessment and grading
 Where applicable, all projects will be evaluated according to the following criteria
@@ -146,12 +156,10 @@ acad_integrity.html
 Post to your blog and share blog.
 4. Your choice
 
-* Watch and write a short response yo [The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo). Then post to your blog!
-* [Can design change society? – Gui Bonsiepe: Technological Transformation](https://www.youtube.com/watch?v=vLKPTCgUQBY) Watch and answer the question: Do you think designers can/do change society? If so, why? (Post to your blog!)
+* Read [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
+* Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start. What types of design do you like? It can be aesthetic choices or coneptually driven ones). 
 
-* Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start). 
-
-* Post are.na and blog links to our Slack channel #assignments.
+* Submit the are.na and blog links for homework. 
 
 
 #### Week 2 
@@ -159,19 +167,24 @@ Post to your blog and share blog.
 * Students share ideas for apps and give each other feedback in groups.
 * Lecture: Inspiration Phase. Intro to Human-Centered Design methods. "User" (Participant) Interviews, "How might we" statements. [IDEO's Design Kit](https://www.designkit.org/methods).
 
-* In-class activity: come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
+* In-class activity: 
+ - come up with questions for both regular *user interviews* and *expert interviews* and start interviewing classmates. Come up with a "How might we" statement.
+- Discuss  Arenyeka article. 
+- Watch the video about design studios as cooperartives (from a speaker series that happened the semester prior in this class). [artner and Partners](https://vimeo.com/563364900). Discuss.
+- Watch a clip of [The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo) together and discuss.
+Discuss Zuboff talk.
+- Use the "Monitoring to Correct Course" card from this deck [AI & Ethics: Collaborative Activities for Designers]9https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers) and answer the following questions:
+1.Describe two future scenarios—one best-case and one worst-case—that could impact your system through changes in input signals (data) and/or the humans participating. 
+2.  What metrics could help you understand that your design is having unintended consequences? Select a key set of metrics to help you monitor progress early and often.Explore how you can build in safeguards, redundancies, or alerts to signal your design is no longer acting as intended.
+
 
 ##### HW: 
 
-1. Interviews for your idea: Come up with questions for both regular participant [*interviews*](https://www.designkit.org/methods/2) and [*expert interviews*](https://www.designkit.org/methods/43).
-Blog it and post link to [Weekly Assignments document]
-(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
-2. Frame the design challenge. In other words, come up with a [“How might we” statement](https://www.designkit.org/methods/60). Blog it and post link to [Weekly Assignments document]
-(https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+1. Interviews for your idea: Come up with questions for both regular participant [*interviews*](https://www.designkit.org/methods/2) and [*expert interviews*](https://www.designkit.org/methods/43).Blog it and psubmit the link as an assignment. 
+2. Frame the design challenge. In other words, come up with a [“How might we” statement](https://www.designkit.org/methods/60). Blog it and psubmit the link as an assignment. 
+
+
  
-
-(note: not doing storyboard yet!)
-
 
 
 
@@ -179,6 +192,7 @@ Blog it and post link to [Weekly Assignments document]
 ##### In-class: 
 * Students present homework and get feedback from class.
 * Lecture: "Ideation" phase begins, while still in "inspiration" phase also. Go over [personas](http://opendesignkit.org/methods/personas/), [journey maps](https://www.designkit.org/methods/63), and [story boards](https://www.designkit.org/methods/35). 
+* Go over Design Research guide togeher [Design Research For Everyday Projects - UX London ](https://www.slideshare.net/leisa/design-research-for-everyday-projects-ux-london)
 * In-class activity: Craft Personas, journey maps, and storyboards for your project.  
 
 
@@ -203,7 +217,8 @@ Blog it and post link to [Weekly Assignments document]
 * Lecture: Intro to insights and solutions, features using paper prototype features (also Prott or POP). 
 
 * In-class activities: Insights and solutions. Features on paper (or Prott/POP) .
- User testing paper prototypes. Synthesizing research. 
+- Look over [Rapid Prototyping in the real world](https://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)
+-  User testing paper prototypes. Synthesizing research. 
 
 * Lecture: Secondary research & competitive analysis. Feature priority. 
 
@@ -231,8 +246,13 @@ Blog it and post link to [Weekly Assignments document]
 
 #### Week 6 
 ##### In-class: 
-Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
-* In-class activity: Use Sketch, Figma, or Adobe XD to prototype the next iteration of the wireframes for testing.
+* Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
+- Look over [usability testing](https://www.usability.gov/)
+- Watch (Usability Testing)[User Experience Design: Usability Testing] and [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
+
+
+
+* In-class activity: Use Figma or Adobe XD to prototype the next iteration of the wireframes for testing.
 
 ##### HW: 
 * Finish user flows (primary and secondary) 
@@ -296,6 +316,8 @@ TBD
 ##### In-class: 
 * Critique: Select students to get class critiques (first half),
 * Lecture: Animations and prototyping continued. Case studies: Telling a story about your design process. 
+* Look over [Product Designer Case Studies](https://blog.uxfol.io/product-designer-case-studies/) and [75 Instructive Design Case Studies](https://www.smashingmagazine.com/2013/07/this-is-how-we-built-it-case-studies/)
+
 * In-class workshop: One-on-ones during work session.
 
 ##### HW: 
