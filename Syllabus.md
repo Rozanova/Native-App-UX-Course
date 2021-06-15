@@ -59,8 +59,8 @@ Students will design an app that will fit in one of the following categories:
 
 ### Otional and recommended readings and videos: 
 
-[Design and Democracy by Gui Boniepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
-[Can Design Change Society](https://www.youtube.com/watch?v=vLKPTCgUQBY) Gui Bonseipe on Design thinking - Watch from  29:00 - 33:40
+* [Design and Democracy by Gui Boniepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
+* [Can Design Change Society](https://www.youtube.com/watch?v=vLKPTCgUQBY) Gui Bonseipe on Design thinking - Watch from  29:00 - 33:40
 
 ### Assessment and grading
 Where applicable, all projects will be evaluated according to the following criteria
@@ -228,7 +228,7 @@ Discuss Zuboff talk.
 * Conduct secondary research about your topic. [Here's how](https://www.designkit.org/methods/21). 
 * Use your findings from user testing and from your secondary research to inform your competitive analysis.
 * Prioritize app features based on competitive analysis.
-* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+* Post all relevant links(blog and/or are.na)
 
 
 
@@ -248,7 +248,7 @@ Discuss Zuboff talk.
 ##### In-class: 
 * Lecture: Prototyping and usability techniques. (Sketch, Figma, Adobe XD)
 - Look over [usability testing](https://www.usability.gov/)
-- Watch (Usability Testing)[User Experience Design: Usability Testing] and [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
+- Watch [Usability Testing](https://www.wisc-online.com/learn/computer-science/web-development/wd2215/user-experience-design-usability-testing) and [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
 
 
 
@@ -259,7 +259,7 @@ Discuss Zuboff talk.
 * Create a site maps
 * Wireframes (Wireflow)
 * Update your problem statement if need be. [Persona name] needs a way to [user’s need], because [insight].
-* Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
+* Post all relevant links(blog and/or are.na)
 
 
 
