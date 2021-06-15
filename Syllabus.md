@@ -173,7 +173,7 @@ Post to your blog and share blog.
 - Watch the video about design studios as cooperartives (from a speaker series that happened the semester prior in this class). [artner and Partners](https://vimeo.com/563364900). Discuss.
 - Watch a clip of [The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo) together and discuss.
 Discuss Zuboff talk.
-- Use the "Monitoring to Correct Course" card from this deck [AI & Ethics: Collaborative Activities for Designers]9https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers) and answer the following questions:
+- Use the "Monitoring to Correct Course" card from this deck [AI & Ethics: Collaborative Activities for Designers](https://www.ideo.com/post/ai-ethics-collaborative-activities-for-designers) and answer the following questions:
 1.Describe two future scenarios—one best-case and one worst-case—that could impact your system through changes in input signals (data) and/or the humans participating. 
 2.  What metrics could help you understand that your design is having unintended consequences? Select a key set of metrics to help you monitor progress early and often.Explore how you can build in safeguards, redundancies, or alerts to signal your design is no longer acting as intended.
 
