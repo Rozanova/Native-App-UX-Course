@@ -55,6 +55,7 @@ Students will design an app that will fit in one of the following categories:
 * [Usability](https://www.usability.gov/)
 * [User Experience Design: Usability Testing](https://www.wisc-online.com/learn/computer-science/web-development/wd2215/user-experience-design-usability-testing)
 * [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
+* [CreativeCommons](https://www.youtube.com/watch?v=AeTlXtEOplA)
 
 
 ### Otional and recommended readings and videos: 
