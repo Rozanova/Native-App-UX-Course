@@ -143,10 +143,11 @@ acad_integrity.html
 
 #### Week 1 
 ##### In-class: 
+* Discussion of individual goals and design interests.
 * Course introduction. (What is UX?) 
 * Syllabus review.
 * Design theory review.
-* Discussion of individual goals and design interests.
+* Read together:  Excerpts from Don Norman’s classic [The Design of Everyday Things](http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf), which introduces the idea of user-centered design and the iterative design process. p. 187 - 189 (ending in “mutual support”). 
 * Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
 
 ##### HW: 
@@ -248,6 +249,8 @@ Discuss Zuboff talk.
 #### Week 6 
 ##### In-class: 
 * Lecture: Prototyping and usability techniques. (Figma or Adobe XD)
+* Lecture: Accessability. Go over: [National Council on Disability](https://permanent.fdlp.gov/lps2185/www.ncd.gov/newsroom/publications/1996/gui.htm)
+ 
 - Look over [usability testing](https://www.usability.gov/)
 - Watch [Usability Testing](https://www.wisc-online.com/learn/computer-science/web-development/wd2215/user-experience-design-usability-testing) and [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
 
@@ -269,9 +272,10 @@ Discuss Zuboff talk.
 ##### In-class:  
 
 * Lecture: Usability heuristics. Hi-fi UI.
+* Lecture: Go over togher: [Improving Users’ Experience With Online SNAP and Medicaid Systems is short and a really nice way to illustrate how good UX and UI can make a bog difference on the day-to-day lives of citizens](http://www.jstor.com/stable/resrep24216) 
 
 ##### HW:
-* HW: TBD  
+* HW: Evaluate your wireflow so far according to the usability heuristics rubric.   
 
 
 
@@ -331,7 +335,6 @@ TBD
 
 #### Week 12 
 * Critique: Share style guides.
-* Lecture: Accessibility
 
 * Final presentation and group critue part 2.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
