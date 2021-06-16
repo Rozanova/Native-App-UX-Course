@@ -278,6 +278,7 @@ Discuss Zuboff talk.
 ##### In-class: 
 * Lecture: Native UI part 1
 * In-class workshop: Choosing native UI that you need for your app.
+* Watch: [CreativeCommons](https://www.youtube.com/watch?v=AeTlXtEOplA).
 * In-class workshop: Site maps
 
 ##### HW: 
