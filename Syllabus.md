@@ -22,8 +22,28 @@ _~Gui Bonsiepe. Design and Democracy._
 
 
 
-### Course Description and Objectives
-This course is designed to teach students how to design user experiences (UX) for native applications for mobile devices while considering what types of digital products can and should be put out into the world as tools for the day-to-day, as speculative art projects, or as forms of resistance to existing systems in place. The course focuses on usability heuristics, research (Human-Centered Design methodologies) and competitive analysis, information architecture, rapid prototyping and usability testing. Students will familiarize themselves with native UI elements in Apple and Android platforms, explore platform-agnostoc UI, and design for one of the platforms of their choice. They will practice presenting and defending their design decisions. After an introduction to Human-Centered Design, Speculative Design, and Critical Design, students are encouraged to design critically whether for an experimental app that invites viewers to engage in dialogue about pressing social or environmental issues or for an app that is useful in our current daily routines.  
+### Course Description
+In this course students will  design user experiences (UX) for native applications for mobile devices while considering and evaluating what types of digital products can and should be put out into the world as tools for the day-to-day, as speculative art projects, or as forms of resistance to existing sociotechnical systems that move us today. 
+
+### Objectives
+
+- Students will conduct research (Human-Centered Design methodologies) including interviews, surveys, secondary research, competitive analysis, and usability testing in order to produce an informed and useful app. 
+
+- Students will apply standard usability heuristics to their designs and demonstrate knowledge of these heuristics through giving feedback to other students on the usability heuristic of their designs. 
+
+- Students will compare and contrast Human-Centered Design, Speculative Design, and Critical Design and design critically whether for an experimental artifact or for a practical and realistic one.
+
+- Students will build their apps from the ground up, starting from low fidelity hand-drawn prototypes and ending in a high fidelity digital prototype. 
+
+- Students will use rapid prototyping techniques (iterative design) in order to validate their assumptions, gain insight, and steer their designs towards improvement. 
+
+- Students will familiarize themselves with native UI elements in Apple and Android platforms, explore platform-agnostic UI, and design for one of the platforms of their choice.
+
+- Students will practice presenting and defending their design decisions.
+
+- Students will critique the work of other students and ask constructive questions that will encourage critical thinking about app features and design decisions. 
+
+
 
 
 ### Things to bring to class:
