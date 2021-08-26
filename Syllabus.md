@@ -55,6 +55,15 @@ In this course students will  design user experiences (UX) for native applicatio
 [Figma](https://www.figma.com), a blog (like Tumblr or a blog of your choice), [Miro](https://miro.com), are.na, pencils, paper.
 
 
+### Resources
+* 1. EDM Lab 119-CG will be open for students to use, beginning this week. Students should sign up in advance for an appointment via Skedda (please, no spontaneous drop-ins to minimize hallway gathering):
+[https://edmlab.skedda.com/booking](https://edmlab.skedda.com/booking)
+
+Lab hours are Monday through Thursday, 9am to 9pm and Friday 9am to 6pm. Weekends are closed this semester. The lab has been rearranged to accommodate up to 9 students, safely distanced from one another. Masks are required in the labs and proof-of-vaccination is required to enter the building. Please share with classes and on your syllabus.
+
+
+* 2. The DOC is open for large-format print orders. Information is available here:
+[phttps://ccnydoc.blogspot.com](https://ccnydoc.blogspot.com)
 
 ### Projects:
 Students will design an app that will fit in one of the following categories: 
@@ -347,19 +356,25 @@ TBD
 * In-class workshop: One-on-ones during work session.
 
 ##### HW: 
-* Sign up for final presentations for either week 12 or 13. 
+* Sign up for final presentations for either week 14 or 15. 
 * Finalize Style Guide and wires. Make sure app has high fi styles applied, even if still in progress. This means no more greyscale wireframes, placeholder images, app names, or placeholder icons.
-* Put together a Design story about our process. 
 
 
 
 #### Week 12 
-* Critique: Share style guides.
+* Put together a Design story about our process. 
 
-* Final presentation and group critue part 2.
-Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
 
 #### Week 13   
+* Work in class, help sessions, etc. 
+
+#### Week 14   
+* Final presentation and group critue part 1.
+Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
+
+
+#### Week 15   
 * Final presentation and group critue part 2.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
+
