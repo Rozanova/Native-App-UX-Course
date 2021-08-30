@@ -33,6 +33,8 @@ In this course students will  design user experiences (UX) for native applicatio
 
 - Students will compare and contrast Human-Centered Design, Speculative Design, and Critical Design and design critically whether for an experimental artifact or for a practical and realistic one.
 
+- Students will familiarize themselves with design for accessability and include this knowledge into their designs.
+
 - Students will build their apps from the ground up, starting from low fidelity hand-drawn prototypes and ending in a high fidelity digital prototype. 
 
 - Students will use rapid prototyping techniques (iterative design) in order to validate their assumptions, gain insight, and steer their designs towards improvement. 
@@ -42,6 +44,9 @@ In this course students will  design user experiences (UX) for native applicatio
 - Students will practice presenting and defending their design decisions.
 
 - Students will critique the work of other students and ask constructive questions that will encourage critical thinking about app features and design decisions. 
+
+
+
 
 
 
@@ -172,25 +177,25 @@ acad_integrity.html
 
 #### Week 1 
 ##### In-class: 
-* Discussion of individual goals and design interests.
-* Course introduction. (What is UX?) 
+* Course introduction. 
+* Ice breakers + Discussion of individual goals and design interests.
+* Show example projects.
 * Syllabus review.
 * Design theory review.
-* Read together:  Excerpts from Don Norman’s classic [The Design of Everyday Things](http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf), which introduces the idea of user-centered design and the iterative design process. p. 187 - 189 (ending in “mutual support”). 
-* Setting up blogs and are.na accounts, sharing emails and blogs with the instructor. 
+* Setting up blog (Wordpress, Medium, Tumblr but don't use instagram. It has to be a blog where you can type under each image), sharing QC emails. 
 
 ##### HW: 
-* Quick 2-3 paragraphs about potential app idea and interests based on the three options for class projects:
+* Quick 2-3 paragraphs about potential app idea (you can just publish a project in Behance for that and then send me the link by email to kr2176@nyu.edu) and interests based on the four options for class projects:
 1. App as civic engagement tool.
 2. Speculative app a design/art project to address potential future societal needs. 
 3. Critical app design as design/art project that critiques existing social and cultural systems. 
 Post to your blog and share blog.
 4. Your choice
 
-* Read [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
-* Start mood board on are.na for ideas (add at 3 - 4 inspirational items to start. What types of design do you like? It can be aesthetic choices or coneptually driven ones). 
+* Read [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/) and write a short (or long if you wish) response (if you alrady had me in a class that had this assignment in the past feel free to post the same one :))
 
-* Submit the are.na and blog links for homework. 
+* Start a mood board for app design that inspires you. 5 or more images. For example:  UI you like, aesthetics, illustrations, or anything that may inform your app design. You can also use pinterst, Behance collections, are.na, or just place those images you found in your blog post. Later you will continue adding to your moood board. Email me the link to kr2176@nyu.edu. 
+
 
 
 #### Week 2 
