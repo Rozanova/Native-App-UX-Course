@@ -3,7 +3,7 @@
 ##### Taught by: Katya Rozanova
 ##### katya.rozanova@gmail.com / krozanova@ccny.cuny.edu / kr2176@nyu.edu  
 ##### prerequisites: 29510 Electronic Design 1 and 39540 Design for the Web 1.
-##### Office Hours: After class and by appointment.
+##### (https://tinyurl.com/officehoursKatya)[Office Hours].
 
 
 
