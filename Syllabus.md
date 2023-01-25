@@ -79,6 +79,8 @@ Students will design an app that will fit in one of the following categories:
 
 ### Readings/Videos/Materials we will use in class and for assignments:
 * [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
+* [Design for Accessibility](https://www.w3.org/WAI/tips/designing/)
+* [Training for Exploitation by the Precarious Workers Brigade](https://joaap.org/press/pwb/PWB_TrainingForExploitation_smaller.pdf)
 * [Adbuster - The Production Of Meaning (Over-consumption) (1 of 2)](https://www.youtube.com/watch?v=Z2GKajcU3ns)
 * [Why Design Thinking Matters](https://www.capco.com/Capco-Institute/Journal-48-Design-Thinking/Why-design-thinking-matters)
 * [The Shoshana Zuboff on surveillance capitalism](https://www.youtube.com/watch?v=8IcU9w9STAo)
@@ -92,7 +94,7 @@ Students will design an app that will fit in one of the following categories:
 * [CreativeCommons](https://www.youtube.com/watch?v=AeTlXtEOplA)
 * [The Design of Everyday Things](http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf)
 
-### Otional and recommended readings and videos: 
+### Optional and recommended readings and videos: 
 
 * [Design and Democracy by Gui Boniepe](https://www.mitpressjournals.org/doi/pdf/10.1162/desi.2006.22.2.27)
 * [Can Design Change Society](https://www.youtube.com/watch?v=vLKPTCgUQBY) Gui Bonseipe on Design thinking - Watch from  29:00 - 33:40
@@ -175,7 +177,7 @@ acad_integrity.html
 
 ### Class schedule (subject to change!)
 
-#### Week 1 
+#### Week 1 (1/31)
 ##### In-class: 
 * Course introduction. 
 * Ice breakers + Discussion of individual goals and design interests.
@@ -198,7 +200,7 @@ Post to your blog and share blog.
 
 
 
-#### Week 2 
+#### Week 2 (2/7)
 ##### In-class: 
 * Students share ideas for apps and give each other feedback in groups.
 * Lecture: Inspiration Phase. Intro to Human-Centered Design methods. "User" (Participant) Interviews, "How might we" statements. [IDEO's Design Kit](https://www.designkit.org/methods).
@@ -224,7 +226,7 @@ Discuss Zuboff talk.
 
 
 
-#### Week 3 
+#### Week 3 (2/14)
 ##### In-class: 
 * Students present homework and get feedback from class.
 * Lecture: "Ideation" phase begins, while still in "inspiration" phase also. Go over [personas](http://opendesignkit.org/methods/personas/), [journey maps](https://www.designkit.org/methods/63), and [story boards](https://www.designkit.org/methods/35). 
@@ -241,9 +243,11 @@ Discuss Zuboff talk.
 * Post all relevant links(blog and/or are.na) to [Weekly Assignments document](https://docs.google.com/document/d/1YNxX5W69mKBNEXMsRS5N9qab15BsAwzGitfKVnQnIKg/edit?usp=sharing) 
 
 
+Tuesday, February 21
+* Classes follow Monday schedule
 
 
-#### Week 4 
+#### Week 4 (2/28)
 ##### In-class: 
 
 
@@ -268,7 +272,7 @@ Discuss Zuboff talk.
 
 
 
-#### Week 5 
+#### Week 5 (3/7)
 ##### In-class: 
 
 * Class Critique: Students Present competitive analysis and features. 
@@ -280,7 +284,7 @@ Discuss Zuboff talk.
 
 
 
-#### Week 6 
+#### Week 6 (3/14)
 ##### In-class: 
 * Lecture: Prototyping and usability techniques. (Figma or Adobe XD)
 * Lecture: Accessability. Go over: [National Council on Disability](https://permanent.fdlp.gov/lps2185/www.ncd.gov/newsroom/publications/1996/gui.htm)
@@ -302,7 +306,7 @@ Discuss Zuboff talk.
 
 
 
-#### Week 7 
+#### Week 7 (3/21)
 ##### In-class:  
 
 * Lecture: Usability heuristics. Hi-fi UI.
@@ -313,7 +317,7 @@ Discuss Zuboff talk.
 
 
 
-#### Week 8 
+#### Week 8 (3/28)
 ##### In-class: 
 * Lecture: Native UI part 1
 * In-class workshop: Choosing native UI that you need for your app.
@@ -325,7 +329,7 @@ Discuss Zuboff talk.
 
 
 
-#### Week 9 
+#### Week 9 (4/4)
 ##### In-class: 
 * Lecture: Native UI (elevations, shadows, material design) part 2 and heuristics.
 * In-class workshop: Choosing native UI that you need for your app. Build a tyle guide.
@@ -334,12 +338,10 @@ Discuss Zuboff talk.
 ##### HW: 
 TBD
 
-#### (No Class. Classes follow Wednesday schedule)
 
+!SPRING BREAK!
 
-
-
-#### Week 10  
+#### Week 10  (4/18)
 ##### In-class: 
 * Lecture: Usability refresher
 * In-class workshop: Usability testing.
@@ -350,9 +352,10 @@ TBD
 * Apply your takeaways from the usability testing sessions to your designs. 
 * Style guides
 * Updated flows
+_
 
-
-#### Week 11 
+_
+#### Week 11 (4/25)
 ##### In-class: 
 * Critique: Select students to get class critiques (first half),
 * Lecture: Animations and prototyping continued. Case studies: Telling a story about your design process. 
@@ -366,20 +369,20 @@ TBD
 
 
 
-#### Week 12 
+#### Week 12 (5/2)
 * Put together a Design story about our process. 
 
 
 
-#### Week 13   
+#### Week 13   (5/9)
 * Work in class, help sessions, etc. 
 
-#### Week 14   
+#### Week 14  (5/16)
 * Final presentation and group critue part 1.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
 
-#### Week 15   
+#### Week 15   (5/23 finals day)
 * Final presentation and group critue part 2.
 Final Presentations of the journey showing insights and design pivots. Everyone trying everyone else's app on our phones! 
 
