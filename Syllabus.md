@@ -287,7 +287,7 @@ Tuesday, February 21
 #### Week 6 (3/14)
 ##### In-class: 
 * Lecture: Prototyping and usability techniques. (Figma or Adobe XD)
-* Lecture: Accessability. Go over: [National Council on Disability](https://permanent.fdlp.gov/lps2185/www.ncd.gov/newsroom/publications/1996/gui.htm)
+* Lecture: Accessibility. Go over: [National Council on Disability](https://permanent.fdlp.gov/lps2185/www.ncd.gov/newsroom/publications/1996/gui.htm)
  
 - Look over [usability testing](https://www.usability.gov/)
 - Watch [Usability Testing](https://www.wisc-online.com/learn/computer-science/web-development/wd2215/user-experience-design-usability-testing) and [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
