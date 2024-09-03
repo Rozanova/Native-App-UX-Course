@@ -78,6 +78,7 @@ Students will design an app that will fit in one of the following categories:
 4. Your choice, as long as it follows Human-Centered design guidelines.
 
 ### Readings/Videos/Materials we will use in class and for assignments:
+
 * [How to think differently about doing good as a creative person](https://thecreativeindependent.com/guides/how-to-think-differently-about-doing-good-as-a-creative-person/)
 * [Design for Accessibility](https://www.w3.org/WAI/tips/designing/)
 * [Training for Exploitation by the Precarious Workers Brigade](https://joaap.org/press/pwb/PWB_TrainingForExploitation_smaller.pdf)
@@ -92,7 +93,7 @@ Students will design an app that will fit in one of the following categories:
 * [User Experience Design: Usability Testing](https://www.wisc-online.com/learn/computer-science/web-development/wd2215/user-experience-design-usability-testing)
 * [User Experience Design : Remote vs. In-Person Usability Testing ](https://www.wisc-online.com/learn/computer-science/web-development/wd1715/user-experience-design-remote-vs-in-person-us)
 * [CreativeCommons](https://www.youtube.com/watch?v=AeTlXtEOplA)
-* [The Design of Everyday Things](http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf)
+* [The Design of Everyday Things]([http://kowym.com/wp-content/uploads/2018/08/The-Design-of-Everyday-Things-Don-Norman.pdf](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf))
 
 ### Optional and recommended readings and videos: 
 
